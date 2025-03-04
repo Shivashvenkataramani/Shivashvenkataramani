@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Shivash..
 - 🌱 I’m currently doing Mechanical Engineering...
 - 💞️ I’m looking to learn new stuffs
-https://github.com/Shivashvenkataramani/Led
 
 
 
